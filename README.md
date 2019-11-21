@@ -38,6 +38,6 @@ The ACD notebooks are under (http://192.168.10.116:8889/user/jortizp/tree), but 
 ### Juan Gonzalo Quiroz
 
 ### Valentino Malvarmo
-I, Valentino Malvarmo, declare that all the content aported by me is of my own authorship. I contributed in the phase of data preparation, documentation and with topic modeling.
+I, Valentino Malvarmo, declare that all the content aported by me is of my own authorship. I contributed in the phase of data preparation, documentation, topic modeling and the deployment of the notebooks in the ADC.
 
 ### William Cadenas
