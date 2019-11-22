@@ -91,8 +91,9 @@ cv_df.select(['content','refined_tokens','features']).show(10, True)
 
 
 
-## 4. Data Analytics Paredes <a name="paredes"></a>
-
+## 4. Data Analytics Topic modeling <a name="paredes"></a>
+Details inside the topic-modeling notebook
+    ./topic-modeling/topic-modeling.ipynb
 
 ## 5. Deployment <a name="Deployment"></a>
 We worked in two environments, the first was AWS using notebooks with pyspark on top of a EMR cluster, there the data was stored in s3 in the following url:
