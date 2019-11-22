@@ -2,9 +2,9 @@
 
 # Table of Contents
 1. [Context](#context)
-2. [Data Preparation] (#DataPre)
-3. [Data Analytics Kmeas] (#kmeans)
-4. [Data Analytics Paredes] (#paredes)
+2. [Data Preparation](#DataPre)
+3. [Data Analytics Kmeas](#kmeans)
+4. [Data Analytics Paredes](#paredes)
 5. [Deployment](#Deployment)
 6. [Honor Code](#code)
 
