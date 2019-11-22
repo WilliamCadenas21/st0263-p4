@@ -37,6 +37,8 @@ The ACD notebooks are under (http://192.168.10.116:8889/user/jortizp/tree), but 
 
 ### Juan Gonzalo Quiroz
 
+I, Juan Gonzalo Quiroz Cadavid, declare that all the content aported by me is of my own authorship, and those slices of code that don't belong to me are explicitly  referenced. I contributed in the phase of data preparation, documentation, Kmeans implementation and deployment on EMR.
+
 ### Valentino Malvarmo
 I, Valentino Malvarmo, declare that all the content aported by me is of my own authorship. I contributed in the phase of data preparation, documentation, topic modeling and the deployment of the notebooks in the ADC.
 
