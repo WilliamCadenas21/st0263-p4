@@ -2,14 +2,24 @@
 
 # Table of Contents
 1. [Context](#context)
-2. [Workflow](#workflow)
-3. [Honor Code](#code)
+2. [Data Preparation] (#DataPre)
+3. [Data Analytics Kmeas] (#kmeans)
+4. [Data Analytics Paredes] (#paredes)
+5. [Deployment](#Deployment)
+6. [Honor Code](#code)
 
 ## 1. Context <a name="context"></a>
 We were tasked with performing big data analitycs to a set of more than 100,000 news articles written in english.
 The dataset can be found in https://www.kaggle.com/snapcrack/all-the-news. It consists of three .csv files each with around 50,000 articles, though to ease the burden, we chose to blend the files into a single articles.csv file that was used for the analysis.
 
-## 2. Workflow <a name="workflow"></a>
+## 2. Data Preparation <a name="DataPre"></a>
+
+## 3. Data Analytics Kmeas <a name="kmeans"></a>
+
+## 4. Data Analytics Paredes <a name="paredes"></a>
+
+
+## 5. Deployment <a name="Deployment"></a>
 We worked in two environments, the first was AWS using notebooks with pyspark on top of a EMR cluster, there the data was stored in s3 in the following url:
 
     's3://tet-project-3/data-csv/join/articles.csv'
