@@ -93,6 +93,7 @@ cv_df.select(['content','refined_tokens','features']).show(10, True)
 
 ## 4. Data Analytics Topic modeling <a name="paredes"></a>
 Details inside the topic-modeling notebook
+    
     ./topic-modeling/topic-modeling.ipynb
 
 ## 5. Deployment <a name="Deployment"></a>
